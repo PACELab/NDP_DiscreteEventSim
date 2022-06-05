@@ -1,0 +1,2543 @@
+{'senario': 9, 'policy': 'sto', 'STORAGE_NUM_CORES': 2, 'code_name': '9_sto_2'}
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+0
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+1900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+2900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+3900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+4900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+6900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+7900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+8900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+9900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+10000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+------------ 
+policy: sto 
+minutes: 1.0 
+sim time: 10100000 
+sec/simsec: 0.0000 
+Jobs completed: 101 
+senario: 9 
+------------
+10100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+10200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+10300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+10400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+10500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+10600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+10700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+10800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+10900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+11900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+12900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+13900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+14900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+15900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+16900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+17900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+18900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+19900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+20000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+20100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+------------ 
+policy: sto 
+minutes: 2.0 
+sim time: 20200000 
+sec/simsec: 0.0000 
+Jobs completed: 202 
+senario: 9 
+------------
+20200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+20300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+20400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+20500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+20600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+20700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+20800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+20900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+21900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+22900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+23900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+24900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+25900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+26900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+27900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+28900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+29900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+30000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+30100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+30200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+------------ 
+policy: sto 
+minutes: 3.0 
+sim time: 30300000 
+sec/simsec: 0.0000 
+Jobs completed: 303 
+senario: 9 
+------------
+30300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+30400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+30500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+30600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+30700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+30800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+30900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+31900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+32900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+33900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+34900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+35900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+36900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+37900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+38900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+39900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+40000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+40100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+40200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+40300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+------------ 
+policy: sto 
+minutes: 4.0 
+sim time: 40400000 
+sec/simsec: 0.0000 
+Jobs completed: 404 
+senario: 9 
+------------
+40400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+40500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+40600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+40700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+40800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+40900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+41900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+42900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+43900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+44900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+45900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+46900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+47900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+48900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49100000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49200000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49300000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49400000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49500000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49600000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49700000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49800000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+49900000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+50000000
+best_cut 0 sto
+best_cut 1 sto
+best_cut 2 sto
+==== 3
+5.189135849475861 311.3481705188751 5.660875831950794e-07

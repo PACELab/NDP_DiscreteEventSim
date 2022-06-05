@@ -1,0 +1,5057 @@
+{'senario': 10, 'policy': 'net', 'STORAGE_NUM_CORES': 2, 'code_name': '10_net_2'}
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 0.0 0.0 inf
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 0.0 0.0 inf
+best_cut 1 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 0.0 0.0 inf
+best_cut 2 sto
+==== 3
+0
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.88132970742687 0.0 0.39865420560747383
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.88132970742687 0.0 0.39865420560747383
+best_cut 1 com
+==== 1
+100000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.8152544456067699 0.0 0.4131652186915889
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.8152544456067699 0.0 0.4131652186915889
+best_cut 1 com
+==== 1
+200000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.785159589994664 0.0 0.4201305049719627
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.785159589994664 0.0 0.4201305049719627
+best_cut 1 com
+==== 1
+300000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7710939414224194 0.0 0.4234670914167614
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7710939414224194 0.0 0.4234670914167614
+best_cut 1 com
+==== 1
+400000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.764370745311184 0.0 0.42508072750192966
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.764370745311184 0.0 0.42508072750192966
+best_cut 1 com
+==== 1
+500000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7611797049516877 0.0 0.42585092134057595
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7611797049516877 0.0 0.42585092134057595
+best_cut 1 com
+==== 1
+600000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7596598824153404 0.0 0.4262187298209792
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7596598824153404 0.0 0.4262187298209792
+best_cut 1 com
+==== 1
+700000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7589310753688752 0.0 0.4263953320869684
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7589310753688752 0.0 0.4263953320869684
+best_cut 1 com
+==== 1
+800000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7585784893795169 0.0 0.42648082216940125
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7585784893795169 0.0 0.42648082216940125
+best_cut 1 com
+==== 1
+900000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7584088729173517 0.0 0.42652196059252445
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7584088729173517 0.0 0.42652196059252445
+best_cut 1 com
+==== 1
+1000000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7583262449577683 0.0 0.42654200388052194
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7583262449577683 0.0 0.42654200388052194
+best_cut 1 com
+==== 1
+1100000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758287000351198 0.0 0.42655152421089165
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758287000351198 0.0 0.42655152421089165
+best_cut 1 com
+==== 1
+1200000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582688532416217 0.0 0.42655592665323455
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582688532416217 0.0 0.42655592665323455
+best_cut 1 com
+==== 1
+1300000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582600555657262 0.0 0.42655806097960003
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582600555657262 0.0 0.42655806097960003
+best_cut 1 com
+==== 1
+1400000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582559023287256 0.0 0.42655906856713005
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582559023287256 0.0 0.42655906856713005
+best_cut 1 com
+==== 1
+1500000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582539539243855 0.0 0.42655954125740253
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582539539243855 0.0 0.42655954125740253
+best_cut 1 com
+==== 1
+1600000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582529512481286 0.0 0.4265597845108683
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582529512481286 0.0 0.4265597845108683
+best_cut 1 com
+==== 1
+1700000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582524980208447 0.0 0.42655989446579956
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582524980208447 0.0 0.42655989446579956
+best_cut 1 com
+==== 1
+1800000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582522737753574 0.0 0.4265599488687614
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582522737753574 0.0 0.4265599488687614
+best_cut 1 com
+==== 1
+1900000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582521633550812 0.0 0.42655997565722126
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582521633550812 0.0 0.42655997565722126
+best_cut 1 com
+==== 1
+2000000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582521092340822 0.0 0.4265599887872223
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582521092340822 0.0 0.4265599887872223
+best_cut 1 com
+==== 1
+2100000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520851659575 0.0 0.42655999462625926
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520851659575 0.0 0.42655999462625926
+best_cut 1 com
+==== 1
+2200000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758252073751745 0.0 0.42655999739539946
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758252073751745 0.0 0.42655999739539946
+best_cut 1 com
+==== 1
+2300000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520680629983 0.0 0.4265599987755154
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520680629983 0.0 0.4265599987755154
+best_cut 1 com
+==== 1
+2400000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758252065456673 0.0 0.42655999940782185
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758252065456673 0.0 0.42655999940782185
+best_cut 1 com
+==== 1
+2500000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520641912276 0.0 0.4265599997148247
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520641912276 0.0 0.4265599997148247
+best_cut 1 com
+==== 1
+2600000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758252063594902 0.0 0.42655999985949605
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758252063594902 0.0 0.42655999985949605
+best_cut 1 com
+==== 1
+2700000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520632974863 0.0 0.42655999993165045
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520632974863 0.0 0.42655999993165045
+best_cut 1 com
+==== 1
+2800000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520631510778 0.0 0.4265599999671698
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520631510778 0.0 0.4265599999671698
+best_cut 1 com
+==== 1
+2900000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630818343 0.0 0.4265599999839686
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630818343 0.0 0.4265599999839686
+best_cut 1 com
+==== 1
+3000000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630473912 0.0 0.42655999999232463
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630473912 0.0 0.42655999999232463
+best_cut 1 com
+==== 1
+3100000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630307998 0.0 0.4265599999963498
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630307998 0.0 0.4265599999963498
+best_cut 1 com
+==== 1
+3200000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758252063023016 0.0 0.4265599999982382
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758252063023016 0.0 0.4265599999982382
+best_cut 1 com
+==== 1
+3300000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630192837 0.0 0.4265599999991436
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630192837 0.0 0.4265599999991436
+best_cut 1 com
+==== 1
+3400000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630174654 0.0 0.4265599999995848
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630174654 0.0 0.4265599999995848
+best_cut 1 com
+==== 1
+3500000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758252063016576 0.0 0.42655999999980054
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758252063016576 0.0 0.42655999999980054
+best_cut 1 com
+==== 1
+3600000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630161453 0.0 0.42655999999990507
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630161453 0.0 0.42655999999990507
+best_cut 1 com
+==== 1
+3700000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630159453 0.0 0.4265599999999536
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630159453 0.0 0.4265599999999536
+best_cut 1 com
+==== 1
+3800000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.75825206301585 0.0 0.4265599999999767
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.75825206301585 0.0 0.4265599999999767
+best_cut 1 com
+==== 1
+3900000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630158023 0.0 0.4265599999999883
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630158023 0.0 0.4265599999999883
+best_cut 1 com
+==== 1
+4000000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157827 0.0 0.426559999999993
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157827 0.0 0.426559999999993
+best_cut 1 com
+==== 1
+4100000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758252063015772 0.0 0.4265599999999956
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758252063015772 0.0 0.4265599999999956
+best_cut 1 com
+==== 1
+4200000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157685 0.0 0.42655999999999644
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157685 0.0 0.42655999999999644
+best_cut 1 com
+==== 1
+4300000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157665 0.0 0.42655999999999694
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157665 0.0 0.42655999999999694
+best_cut 1 com
+==== 1
+4400000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758252063015766 0.0 0.42655999999999705
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758252063015766 0.0 0.42655999999999705
+best_cut 1 com
+==== 1
+4500000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758252063015766 0.0 0.42655999999999705
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758252063015766 0.0 0.42655999999999705
+best_cut 1 com
+==== 1
+4600000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.758252063015766 0.0 0.42655999999999705
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.758252063015766 0.0 0.42655999999999705
+best_cut 1 com
+==== 1
+4700000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+4800000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+4900000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5000000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5100000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5200000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5300000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5400000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5500000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5600000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5700000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5800000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+5900000
+< 3 active connections
+com_cluster_score: 3.072 0.0 inf 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.05120000000000039 0.0 inf 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+6900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+7900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+8900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+9900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+10000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+------------ 
+policy: net 
+minutes: 8.0 
+sim time: 10100000 
+sec/simsec: 0.0001 
+Jobs completed: 101 
+senario: 10 
+------------
+10100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+10200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+10300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+10400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+10500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+10600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+10700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+10800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+10900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+11900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+12900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+13900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+14900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+15900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+16900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+17900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+18900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+19900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+20000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+20100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+------------ 
+policy: net 
+minutes: 17.0 
+sim time: 20200000 
+sec/simsec: 0.0001 
+Jobs completed: 202 
+senario: 10 
+------------
+20200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+20300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+20400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+20500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+20600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+20700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+20800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+20900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+21900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+22900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+23900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+24900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+25900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+26900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+27900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+28900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+29900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+30000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+30100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+30200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+------------ 
+policy: net 
+minutes: 25.0 
+sim time: 30300000 
+sec/simsec: 0.0001 
+Jobs completed: 303 
+senario: 10 
+------------
+30300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+30400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+30500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+30600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+30700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+30800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+30900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+31900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+32900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+33900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+34900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+35900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+36900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+37900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+38900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+39900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+40000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+40100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+40200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+40300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+------------ 
+policy: net 
+minutes: 34.0 
+sim time: 40400000 
+sec/simsec: 0.0001 
+Jobs completed: 404 
+senario: 10 
+------------
+40400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+40500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+40600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+40700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+40800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+40900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+41900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+43900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+44900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+45900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+46900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+47900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+48900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49100000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49200000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49300000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49400000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49500000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49600000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49700000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49800000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+49900000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+50000000
+< 3 active connections
+com_cluster_score: 3.085888888888889 0.0 6.171428571428615 3.072
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 0 sto
+< 3 active connections
+com_cluster_score: 0.06508888888888918 0.0 6.171428571428615 0.05120000000000039
+sto_cluster_score: 1.7582520630157656 0.0 0.42655999999999716
+best_cut 1 com
+==== 1
+42.79839742183685 2567.9038503170013 4.668916091485457e-06
